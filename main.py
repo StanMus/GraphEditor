@@ -2,6 +2,10 @@
 from tkinter import *
 import tkinter.filedialog, tkinter.messagebox
 
+# серьезные изменение проекта
+
+# еще одно серьезное изменение проекта
+
 class Example(Frame):
     def __init__(self, parent):
         Frame.__init__(self, parent, background="blue")
